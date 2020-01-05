@@ -1,6 +1,6 @@
 # Local Restaurant Recommendation Web App
 
-[Link to web app](http://18.218.232.99:8080/Titan/#) (deployed on AWS EC2)
+[Link to web app](http://18.218.232.99:8080/Titan/#) (deployed on AWS EC2, temporarily unavailable due to running out of money)
 
 
 
